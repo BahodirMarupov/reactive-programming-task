@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: jmp
+      port: 27017
+      authentication-database: admin
+      host: localhost
+
+web-client:
+  baseUrl: https://sports.api.decathlon.com
