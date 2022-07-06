@@ -10,6 +10,7 @@ Task 1 - ETL process (2 Points)
 1. Create data model with following fields:
 
 "id": int, // id of sport
+
 "name": string // sport name
 
 2. Create Reactive Repository
